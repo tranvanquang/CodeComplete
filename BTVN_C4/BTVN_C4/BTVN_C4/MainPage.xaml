@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="BTVN_C4.MainPage">
+
+    <StackLayout>
+        <Button Text="FeedbackPage" Clicked="HandleChoice1" />
+        <Button Text="LocalDesignPage" Clicked="HandleChoice2" />
+        <Button Text="StaticResourcesPage" Clicked="HandleChoice3" />
+        <Button Text="DynamicResourcePage" Clicked="HandleChoice4" />
+        <Button Text="ImportResourcesPage" Clicked="HandleChoice5" />
+        <Button Text="ExplicitStylePage" Clicked="HandleChoice5" />
+        <Button Text="ImplicitStylePage" Clicked="HandleChoice7" />
+        <Button Text="OverridingStylesPage" Clicked="HandleChoice8" />
+        <Button Text="ButtonStylesWithStaticInheritancePage" Clicked="HandleChoice9" />
+        <Button Text="ButtonStylesWithDynamicInheritancePage" Clicked="HandleChoice10" />
+        <Button Text="StylesPage" Clicked="HandleChoice11" />
+        <Button Text="LightThemePage" Clicked="HandleChoice12" />
+        <Button Text="DarkThemePage" Clicked="HandleChoice13" />
+        <Button Text="DeviceStylePage" Clicked="HandleChoice14" />
+        <Button Text="CustomDarkThemePage" Clicked="HandleChoice15" />
+    </StackLayout>
+
+</ContentPage>

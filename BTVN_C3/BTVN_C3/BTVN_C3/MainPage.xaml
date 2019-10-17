@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="BTVN_C3.MainPage">
+
+    <StackLayout>
+        <Button Text="StackLayout Horizontal" Clicked="HandleChoice1" />
+        <Button Text="StackLayout Vertical" Clicked="HandleChoice2" />
+        <Button Text="RelativeLayout" Clicked="HandleChoice3" />
+        <Button Text="AbsoluteLayout" Clicked="HandleChoice4" />
+        <Button Text="Grid" Clicked="HandleChoice5" />
+        <Button Text="Grid Using GridUnitType.Absolute" Clicked="HandleChoice5" />
+        <Button Text="Grid using GridUnitType.Star" Clicked="HandleChoice7" />
+        <Button Text="Content View Example" Clicked="HandleChoice8" />
+        <Button Text="Frame Example" Clicked="HandleChoice9" />
+    </StackLayout>
+
+</ContentPage>
