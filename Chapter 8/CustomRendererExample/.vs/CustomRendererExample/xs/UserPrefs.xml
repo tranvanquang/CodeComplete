@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{EBA56F04-40E2-4A1A-9272-CCA3BBBFFAA0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomRendererExample/CustomRendererExamplePage.xaml.cs">
+    <Files>
+      <File FileName="CustomRendererExample/CustomRendererExamplePage.xaml" Line="1" Column="1" />
+      <File FileName="CustomRendererExample/CustomRendererExamplePage.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CustomRendererExample" expanded="True">
+            <Node name="CustomRendererExample" expanded="True">
+              <Node name="CustomRendererExamplePage.xaml" expanded="True">
+                <Node name="CustomRendererExamplePage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="CustomRendererExample.Android" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CustomRendererExample.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.CustomRendererExample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.EEA47355-6C45-4D41-A5E9-863AA79A0793" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
